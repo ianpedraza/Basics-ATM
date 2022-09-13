@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ATM</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="deposit">Deposit</string>
+    <string name="cash">Cash</string>
+    <string name="zero">$0.00</string>
+</resources>
